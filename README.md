@@ -1,3 +1,6 @@
+##There are many ways to implement the task. I used the shortest method possible. I will update the code with the same functionality using ReactQuery, Redux, and ContextAPI. 
+
+
 ##Clone repository using 
 git clone repo-link
 
